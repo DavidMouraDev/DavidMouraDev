@@ -1,7 +1,145 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1C82AD&size=40&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+David+Cauã!+👋;Tenho+19+anos.;Eu+curso+ADS.;Sou+desenvolvedor!)](https://git.io/typing-svg)
+<div align="center">
 
-## Redes Sociais
-  <div align="center"> 
-    <a href="https://www.instagram.com/__davizzin___/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/david-cauã-moura-bandeira-76a5b732a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-  </div>
+  <!-- BANNER PERSONALIZADO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=David%20Cauã%20Moura%20Bandeira&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20Python&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+
+  <br/><br/>
+
+  <!-- TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Desenvolvedor+Backend+Python;Criando+APIs+Robustas+e+Escal%C3%A1veis;Python+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Git;Construindo+solu%C3%A7%C3%B5es+eficientes." alt="Typing Animation" />
+  </a>
+
+  <br/><br/>
+
+  <!-- REDES SOCIAIS E CONTATO -->
+  <a href="https://www.linkedin.com/in/david-cau%C3%A3-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=ffffff" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="mailto:davidev761@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff" alt="Gmail Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DavidMouraDev">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=ffffff" alt="GitHub Badge" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+### 👤 Sobre Mim
+
+Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na construção de aplicações e serviços web eficientes, estruturados e escaláveis.
+
+- 💻 **Área de Atuação:** Desenvolvimento Backend & Engenharia de Software.
+- ⚡ **Foco Atual:** Arquitetura de APIs RESTful com Python e FastAPI, gerenciamento de dados com PostgreSQL e versionamento de código com Git.
+- 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas.
+- ⚽ **Estilo:** Focado na simplicidade e performance — *Alvinegro (Preto e Branco)*.
+
+<br/>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
+
+<br/>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">🎬 CineMatch</h3>
+      <p align="center">
+        Aplicação de recomendação e busca de filmes que integra APIs externas e entrega uma experiência fluida para o usuário. Desenvolvido com foco em integração de APIs, concorrência e gerenciamento de estado no backend.
+      </p>
+      <p align="center">
+        <b>Tecnologias:</b> Python • FastAPI • REST API
+      </p>
+      <p align="center">
+        <a href="https://cinematch-asty.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Acessar_Aplicação-000000?style=for-the-badge&logo=render&logoColor=white" alt="Acessar CineMatch" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 🏆 Conquistas do GitHub (GitHub Trophies)
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=DavidMouraDev&theme=darkhub&no-reflection=true&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+---
+
+### 📊 Estatísticas e Linguagens
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidMouraDev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMouraDev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMouraDev&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ffffff&dates=888888" width="97%" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+---
+
+### 📈 Gráfico de Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidMouraDev&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+---
+
+### 🐍 Snake Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DavidMouraDev/DavidMouraDev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  <!-- RODAPÉ PERSONALIZADO -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+  <sub><i>Desenvolvido com 🖤 em estilo Alvinegro por <b>David Cauã Moura Bandeira</b></i></sub>
+
+</div>
