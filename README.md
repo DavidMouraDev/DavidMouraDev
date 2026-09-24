@@ -107,7 +107,7 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 ### 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidMouraDev&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=DavidMouraDev&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
