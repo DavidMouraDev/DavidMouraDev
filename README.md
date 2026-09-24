@@ -14,15 +14,15 @@
 
   <!-- REDES SOCIAIS E CONTATO -->
   <a href="https://www.linkedin.com/in/david-cau%C3%A3-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&borderColor=ffffff" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;
   <a href="mailto:davidev761@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&borderColor=ffffff" alt="Gmail Badge" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   &nbsp;
   <a href="https://github.com/DavidMouraDev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&borderColor=ffffff" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
 
 </div>
@@ -89,9 +89,9 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 ### 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidMouraDev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=DavidMouraDev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMouraDev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DavidMouraDev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
@@ -107,7 +107,7 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 ### 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidMouraDev&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidMouraDev&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
