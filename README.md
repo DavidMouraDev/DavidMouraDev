@@ -38,7 +38,6 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 - 💻 **Área de Atuação:** Desenvolvimento Backend & Engenharia de Software.
 - ⚡ **Foco Atual:** Arquitetura de APIs RESTful com Python e FastAPI, gerenciamento de dados com PostgreSQL e versionamento de código com Git.
 - 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas.
-- ⚽ **Estilo:** Focado na simplicidade e performance — *Alvinegro (Preto e Branco)*.
 
 <br/>
 
@@ -87,16 +86,6 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 
 ---
 
-### 🏆 Conquistas do GitHub (GitHub Trophies)
-
-<div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=DavidMouraDev&theme=darkhub&no-reflection=true&no-frame=false&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
----
-
 ### 📊 Estatísticas e Linguagens
 
 <div align="center">
@@ -139,7 +128,5 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 
   <!-- RODAPÉ PERSONALIZADO -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" alt="Footer Banner" />
-
-  <sub><i>Desenvolvido com 🖤 em estilo Alvinegro por <b>David Cauã Moura Bandeira</b></i></sub>
 
 </div>
