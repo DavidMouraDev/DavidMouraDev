@@ -107,7 +107,7 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 ### 📈 Gráfico de Atividade
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/888888/DavidMouraDev" width="100%" alt="Gráfico de Contribuições" />
+  <img src="https://ghchart.rshah.org/CCCCCC/DavidMouraDev" width="100%" alt="Gráfico de Contribuições" />
 </div>
 
 <br/>
