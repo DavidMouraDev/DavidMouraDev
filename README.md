@@ -86,16 +86,6 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 
 ---
 
-### 📊 Estatísticas e Linguagens
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=DavidMouraDev&show_icons=true&count_private=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DavidMouraDev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=333333&hide_border=false" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMouraDev&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ffffff&dates=888888" width="97%" alt="GitHub Streak" />
 </div>
