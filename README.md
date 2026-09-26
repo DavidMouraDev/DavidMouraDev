@@ -86,13 +86,6 @@ Olá! Sou **David Cauã Moura Bandeira**, Desenvolvedor Backend com foco na cons
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMouraDev&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ffffff&dates=888888" width="97%" alt="GitHub Streak" />
-</div>
-
-<br/>
----
-
 ### 🐍 Snake Contribution Graph
 
 <div align="center">
